@@ -380,7 +380,7 @@ render(){
 | renderDetail           | function(rowData, sectionID, rowID) | null                       | custom render event title and event description                  |
 | renderCircle           | function(rowData, sectionID, rowID) | null                       | custom render circle                                             |
 | renderFullLine         | bool                                | false                      | render event border on last timeline item                        |
-| options                | object                              | null                       | ListView properties                                              |
+| options                | object                              | null                       | FlatList properties                                              |
 | showTime               | boolean                             | true                       | Time container options                                           |
 | isUsingFlatlist        | boolean                             | false                      | Render inner components in Flatlist (if false - render in View)  |
 
