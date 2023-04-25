@@ -1,0 +1,35 @@
+{
+  "name": "@dplus/rn-timeline",
+  "version": "0.0.1",
+  "description": "Timeline component for React Native",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dongCode/rn-timeline.git"
+  },
+  "keywords": [
+    "react-native",
+    "timeline",
+    "flatlist",
+    "schedule",
+    "react native component",
+    "ios",
+    "android",
+    "component"
+  ],
+  "peerDependencies": {
+    "react-native": ">= 0.58.2"
+  },
+  "author": "dongCode (https://github.com/dongCode)",
+  "contributors": [
+    "dongCode (https://github.com/dongCode)"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dongCode/rn-timeline/issues"
+  },
+  "homepage": "https://github.com/dongCode/rn-timeline"
+}
